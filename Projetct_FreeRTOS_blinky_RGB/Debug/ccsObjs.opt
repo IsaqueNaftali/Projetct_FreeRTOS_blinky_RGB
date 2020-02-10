@@ -1,0 +1,1 @@
+"./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./Drivers/buttons.obj" "./Drivers/rgb.obj" "./FreeRTOS/list.obj" "./FreeRTOS/queue.obj" "./FreeRTOS/tasks.obj" "./Portable/heap_2.obj" "./Portable/port.obj" "./Portable/portasm.obj" "./Utils/uartstdio.obj" "./Utils/ustdlib.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" 
